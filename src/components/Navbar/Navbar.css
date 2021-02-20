@@ -1,0 +1,7 @@
+nav {
+    background-color: none !important;
+}
+
+.nav-item:hover {
+    color:  #209cee;
+}

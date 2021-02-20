@@ -1,0 +1,34 @@
+#home-image {
+    width: 600px;
+    
+}
+
+.title {
+    font-size: 50px;
+}
+
+.title-colors {
+    color:  #209cee
+}
+
+.typed-text {
+    font-size: 40px;
+}
+
+/* svg {
+    position: absolute;
+    z-index: -1;
+    
+    display:flex;
+} */
+
+
+.container-flex {
+    display:flex;
+    flex-direction:column;
+    min-height: 100vh;
+}
+
+footer {
+    margin-top: auto;
+}
