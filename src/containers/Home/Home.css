@@ -27,8 +27,23 @@
     display:flex;
     flex-direction:column;
     min-height: 100vh;
-}
+   
+} 
 
+.centering-div {
+    
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    align-items: flex-start;
+}
 footer {
     margin-top: auto;
 }
+
+/* .main-row {
+    align-items: center;
+    justify-content: center;
+    align-items: flex-start;
+    display: flex;
+} */

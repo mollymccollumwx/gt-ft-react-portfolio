@@ -4,21 +4,22 @@ import "./Navbar.css";
 const Navbar = () => {
   return (
     <nav className="navbar is-transparent">
-      <div className="navbar-brand ml-2">
+      <div className="navbar-brand">
         <a className="navbar-item fa-2x" href="https://github.com/mollymccollumwx">
-        <i class="fab fa-github"></i>
+        <i className="fab fa-github"></i>
         </a>
         <a className="navbar-item fa-2x" href="https://github.com/mollymccollumwx">
-        <i class="fab fa-linkedin"></i>
+        <i className="fab fa-linkedin"></i>
         </a>
         <a className="navbar-item fa-2x" href="https://github.com/mollymccollumwx">
-        <i class="fab fa-twitter"></i>
+        <i className="fab fa-twitter"></i>
         </a>
         <a
           role="button"
-          class="navbar-burger"
+          className="navbar-burger"
           aria-label="menu"
           aria-expanded="false"
+          onClick={()=> document.querySelector('.navbar-menu').classList.toggle('is-active')}
         >
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
@@ -27,8 +28,8 @@ const Navbar = () => {
       </div>
 
       <div id="navbarExampleTransparentExample" className="navbar-menu">
-        <div className="navbar-end mr-2">
-          <a className="navbar-item" href="">
+        <div className="navbar-end">
+          <a className="navbar-item" href="#/">
             Home
           </a>
           <a className="navbar-item" href="#/about">

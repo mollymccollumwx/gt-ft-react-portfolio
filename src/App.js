@@ -8,7 +8,7 @@ import Portfolio from "./containers/Portfolio/Portfolio";
 
 function App() {
   return (
-    <div className="container">
+    <div className="container-flex">
       <Router>
         <Switch>
           <Route exact path="/" component= {Home}/>

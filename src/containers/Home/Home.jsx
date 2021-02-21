@@ -8,11 +8,12 @@ import Footer from "../../components/Navbar/Footer/Footer";
 const Home = () => {
   return (
     <>
+    
       <div className="container-flex">
-        <Navbar />
-
-        <div className="columns">
-          <div className="column mt-5 has-text-centered">
+      <Navbar />
+      <div className="centering-div mt-5">
+        <div className="columns is-vcentered is-centered mt-5">
+          <div className="column is-5 has-text-centered mt-5">
             <h1 className="title mt-5">
               <strong>
                 <span className="title-colors">Hi.</span> I'm Molly
@@ -37,7 +38,7 @@ const Home = () => {
               backSpeed={40}
               loop
             />
-            <div className="columns mt-3">
+            <div className="columns mt-4">
               <div className="column">
                 <button className="button is-dark is-medium mr-2">
                   My Portfolio
@@ -49,11 +50,13 @@ const Home = () => {
             </div>
           </div>
 
-          <div className="column is-6 mt-5">
+          <div className="column is-7 mr-3">
             <img id="home-image " src={Image}></img>
           </div>
         </div>
-        <Footer />
+       
+      </div>
+      <Footer /> 
       </div>
     </>
   );
