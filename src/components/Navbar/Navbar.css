@@ -2,7 +2,7 @@ nav {
     background-color: none !important;
 }
 
-.fab:hover, .navbar-item:hover {
+.fab:hover, .navbar-item:hover .fas:hover {
     color:  #209cee !important;
     
 }

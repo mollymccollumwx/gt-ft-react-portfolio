@@ -40,12 +40,10 @@ const Home = () => {
             />
             <div className="columns mt-4">
               <div className="column">
-                <button className="button is-dark is-medium mr-2">
-                  My Portfolio
-                </button>
-                <button className="button is-info is-medium ml-2">
+              <a className="button is-dark is-medium mr-2" href="#/portfolio">My Portfolio</a>
+                <a className="button is-info is-medium ml-2" href="#/contact">
                   Contact Me
-                </button>
+                </a>
               </div>
             </div>
           </div>

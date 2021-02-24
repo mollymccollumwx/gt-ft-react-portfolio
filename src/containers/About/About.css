@@ -1,4 +1,10 @@
-.image {
-    height: 200px;
-    width: 200px;
+
+.icons:hover {
+    color:  #209cee !important;
+    
+}
+
+.subtitle-blue {
+    color:  #209cee;
+    font-weight: bold;
 }

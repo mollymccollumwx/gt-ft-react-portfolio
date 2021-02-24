@@ -8,10 +8,10 @@ const Navbar = () => {
         <a className="navbar-item fa-2x" href="https://github.com/mollymccollumwx">
         <i className="fab fa-github"></i>
         </a>
-        <a className="navbar-item fa-2x" href="https://github.com/mollymccollumwx">
+        <a className="navbar-item fa-2x" href="https://www.linkedin.com/in/mollymccollumwx/">
         <i className="fab fa-linkedin"></i>
         </a>
-        <a className="navbar-item fa-2x" href="https://github.com/mollymccollumwx">
+        <a className="navbar-item fa-2x" href="https://twitter.com/WXMolly">
         <i className="fab fa-twitter"></i>
         </a>
         <a
