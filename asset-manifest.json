@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/gt-ft-react-portfolio/static/css/main.81c44d53.chunk.css",
+    "main.js": "/gt-ft-react-portfolio/static/js/main.07a826e4.chunk.js",
+    "main.js.map": "/gt-ft-react-portfolio/static/js/main.07a826e4.chunk.js.map",
+    "runtime-main.js": "/gt-ft-react-portfolio/static/js/runtime-main.632bd079.js",
+    "runtime-main.js.map": "/gt-ft-react-portfolio/static/js/runtime-main.632bd079.js.map",
+    "static/js/2.ce15332e.chunk.js": "/gt-ft-react-portfolio/static/js/2.ce15332e.chunk.js",
+    "static/js/2.ce15332e.chunk.js.map": "/gt-ft-react-portfolio/static/js/2.ce15332e.chunk.js.map",
+    "static/js/3.4ccca48e.chunk.js": "/gt-ft-react-portfolio/static/js/3.4ccca48e.chunk.js",
+    "static/js/3.4ccca48e.chunk.js.map": "/gt-ft-react-portfolio/static/js/3.4ccca48e.chunk.js.map",
+    "index.html": "/gt-ft-react-portfolio/index.html",
+    "static/css/main.81c44d53.chunk.css.map": "/gt-ft-react-portfolio/static/css/main.81c44d53.chunk.css.map",
+    "static/js/2.ce15332e.chunk.js.LICENSE.txt": "/gt-ft-react-portfolio/static/js/2.ce15332e.chunk.js.LICENSE.txt",
+    "static/media/DogMeetDog.725e9fc4.png": "/gt-ft-react-portfolio/static/media/DogMeetDog.725e9fc4.png",
+    "static/media/Final.95822efb.png": "/gt-ft-react-portfolio/static/media/Final.95822efb.png",
+    "static/media/Resume.96ba2854.pdf": "/gt-ft-react-portfolio/static/media/Resume.96ba2854.pdf",
+    "static/media/boxapp.d1cf215d.png": "/gt-ft-react-portfolio/static/media/boxapp.d1cf215d.png",
+    "static/media/buger-app.9e95861d.png": "/gt-ft-react-portfolio/static/media/buger-app.9e95861d.png",
+    "static/media/code.20fa05d4.svg": "/gt-ft-react-portfolio/static/media/code.20fa05d4.svg",
+    "static/media/dev-focus.7a7c3288.svg": "/gt-ft-react-portfolio/static/media/dev-focus.7a7c3288.svg",
+    "static/media/email.f78d564b.svg": "/gt-ft-react-portfolio/static/media/email.f78d564b.svg",
+    "static/media/homepage.7b7be490.png": "/gt-ft-react-portfolio/static/media/homepage.7b7be490.png",
+    "static/media/team-generator-html.59264cb2.png": "/gt-ft-react-portfolio/static/media/team-generator-html.59264cb2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.632bd079.js",
+    "static/js/2.ce15332e.chunk.js",
+    "static/css/main.81c44d53.chunk.css",
+    "static/js/main.07a826e4.chunk.js"
+  ]
+}
