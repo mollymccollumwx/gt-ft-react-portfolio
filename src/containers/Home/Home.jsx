@@ -33,6 +33,7 @@ const Home = () => {
                 "Node.js",
                 "HTML5",
                 "CSS3",
+                "Sass"
               ]}
               typeSpeed={50}
               backSpeed={40}
