@@ -41,8 +41,8 @@ const Home = () => {
             <div className="columns mt-4">
               <div className="column">
               <a className="button is-dark is-medium mr-2" href="#/portfolio">My Portfolio</a>
-                <a className="button is-info is-medium ml-2" href="#/contact">
-                  Contact Me
+                <a className="button is-info is-medium ml-2" href="#/About">
+                  Resume
                 </a>
               </div>
             </div>

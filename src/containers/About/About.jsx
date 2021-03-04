@@ -3,7 +3,7 @@ import Navbar from "../../components/Navbar/Navbar";
 import Image from "../../Assets/images/code.svg"
 import "./About.css";
 import Footer from "../../components/Navbar/Footer/Footer";
-import Resume from "../../Assets/images/Resume.pdf";
+import Resume from "../../Assets/images/MollyMcCollum.pdf";
 
 const About = () => {
   return (
